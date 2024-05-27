@@ -1,9 +1,7 @@
 # Hello, I'm Bryce
 <a href="https://www.linkedin.com/in/bryce-sipes-452b78296/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Welcome to my professional portfolio! I am currently a Privacy and Cyber Risk Analyst Intern at the Texas Association of School Boards (TASB), where I specialize in identifying, analyzing, and mitigating cybersecurity risks to safeguard sensitive information. I am also pursuing a Bachelor’s degree in Cybersecurity and Information Assurance from Western Governors University (WGU), which has further honed my skills and deepened my knowledge in this critical field. My passion for cybersecurity drives me to continuously expand my expertise and stay ahead of emerging threats. Explore my portfolio to see the projects and experiences that showcase my dedication to protecting digital assets and ensuring data privacy.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
